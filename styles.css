@@ -1,0 +1,15 @@
+#plus {
+    font-size: 4rem;
+}
+#plus:hover{
+    background-color: green;
+}
+#minus {
+    font-size: 4rem;
+}
+#minus:hover{
+    background-color: green;
+}
+#header{
+    font-size: 40px;
+}
